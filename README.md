@@ -1,1 +1,1 @@
-# Study_Hard_In_Military
+# Algorithm_selfstudy_in_military & PS
